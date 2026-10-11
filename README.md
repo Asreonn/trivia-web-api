@@ -1,5 +1,9 @@
 # TriviAPI Platformu
 
+> **Status:** Archived. Learning project from 2025 (React + Express + MongoDB). Kept as-is, not maintained.
+
+**English summary:** a full-stack trivia platform in one repo: a React SPA (API docs, demo quiz, admin panel) and an Express + MongoDB (Mongoose) API for quiz CRUD, stats and a review queue for submitted questions, with Jest + Supertest integration tests. Run with `npm install` then `npm run dev` (starts the API and the React dev server; set the MongoDB URI first, see the setup section below). The rest of this README is in Turkish.
+
 Modern quiz uygulamalarında kullanılmak üzere tasarlanmış tam kapsamlı bir trivia platformu. Bu monorepo içerisinde:
 
 - **React tabanlı frontend**: API dokümantasyonu, demo quiz deneyimi ve yönetici panelini içeren SPA.
